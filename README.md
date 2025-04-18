@@ -9,7 +9,7 @@ A fine-tuned version of the [TinyLlama-1.1B](https://huggingface.co/cognitivecom
 
 ## 📌 Description
 
-This model is a compact and efficient conversational language model based on TinyLlama-1.1B, fine-tuned using QLoRA for low-resource adaptation. It demonstrates enhanced generation quality for domain-specific queries, particularly fruit-related ones like **mangoes** 🥭.
+This model is a compact and efficient conversational language model based on TinyLlama-1.1B, fine-tuned using QLoRA for low-resource adaptation. It demonstrates enhanced generation quality for domain-specific queries.
 
 ## 🧠 Training Details
 
