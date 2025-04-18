@@ -1,6 +1,7 @@
 # 🥭 TinyLlama-QLoRA-Mango
 
-A fine-tuned version of the [TinyLlama-1.1B](https://huggingface.co/cognitivecomputations/TinyLlama-1.1B) model using [QLoRA](https://arxiv.org/abs/2305.14314), tailored for conversational generation on mango-related prompts.
+A fine-tuned version of the [TinyLlama-1.1B](https://huggingface.co/cognitivecomputations/TinyLlama-1.1B) model using [QLoRA](https://arxiv.org/abs/2305.14314), tailored for conversational generation (not restricted to mangoes :)) 
+- Trained on [Ultrachat200k dataset](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k)
 
 🔗 **Hugging Face Model Repo**: [abhinavm16104/TinyLlama-1.1B-qlora-mango](https://huggingface.co/abhinavm16104/TinyLlama-1.1B-qlora-mango)
 
