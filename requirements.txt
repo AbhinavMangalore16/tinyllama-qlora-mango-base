@@ -6,3 +6,4 @@ trl
 sentencepiece 
 triton 
 huggingface_hub
+wandb
